@@ -11,6 +11,10 @@
  .container{
     height: 100vh;
     background-color: blue ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
  }
  h1{
     color: white;
@@ -32,6 +36,7 @@
     background-color: transparent;
     width: 350px;
     margin-right: 10px;
+    margin-bottom: 20px;
  }
  input::placeholder{
         color: white;
@@ -50,4 +55,24 @@
     height: 220px;
     border-radius: 10px;
     box-shadow: 10px 10px 10px grey;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+ }
+ .city{
+    font-weight: bold;
+    font-size: 20px;
+ }
+ .temp{
+    font-size: 20px;
+ }
+ .desc{
+    color: white;
+    font-size: 20px;
+ }
+ img{
+    height: 100px;
+    width: 100px;
+    
  }
