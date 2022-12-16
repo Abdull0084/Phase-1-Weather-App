@@ -1,1 +1,20 @@
 @import url('http://fonts.googleleapis.com/css2?family-Nunito&display-swap');
+
+
+*{
+    margin: 0%;
+    padding: 0;
+}
+ html{
+    font-family: 'Nunito' ,sans-serif;
+ }
+ .container{
+    height: 100vh;
+    background-color: blue ;
+ }
+ h1{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 70px;
+ }
