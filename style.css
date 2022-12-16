@@ -18,3 +18,13 @@
     padding: 10px;
     font-size: 70px;
  }
+ form{
+    text-align: center;
+
+ }
+ input{
+    border: none;
+    border-bottom: 1xp solid white;
+    color: white;
+    outline: none;
+ }
