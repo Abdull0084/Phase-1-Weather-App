@@ -34,7 +34,7 @@ As a user of the application,you will be able to :
 * Open the index file from the zipped file with any browser.
  **
 
-### Technology  Used
+### Languages  Used
 * HTML - which was used to develope the structure off the pages.
 
 * CSS - which was used to style the User Interface.
